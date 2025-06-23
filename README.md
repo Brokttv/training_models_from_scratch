@@ -9,9 +9,9 @@ And **you** should learn to do that too. Here's why:
 ### ✅ Why Do This?
 
 - 🧠 Build an **intuitive understanding** of what’s going on under the hood.  
-- ⚙️ The low-level logic is beautiful — once you get this, everything else (PyTorch, TensorFlow, Transformers) becomes **butter-smooth**.
-- 🔁 Learning NumPy first makes transitioning to PyTorch seamless — they share similar operations and logic.
-- 🛠️ You’ll become a **debugging master** — because you'll actually understand what each layer and step is doing.
+- ⚙️ The low-level logic is beautiful, once you get this, everything else (PyTorch, TensorFlow, Transformers) becomes **butter-smooth**.
+- 🔁 Learning NumPy first makes transitioning to PyTorch seamless; they share similar operations and logic.
+- 🛠️ You’ll become a **debugging master**; because you'll actually understand what each layer and step is doing.
 
 ---
 
@@ -38,7 +38,7 @@ We'll start simple:
 > This [YouTube playlist](https://youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg&si=_qPsNeX3TuMZS9sf) by Professor Bryce is a treasure — highly recommended!
 
 <br>
-
+Take a look at what a mathematical implementation will look like:
 <div align="center">
   <img src="Untitled design (18).png" alt="Linear and Logistic Regression" width="900">
 </div>
