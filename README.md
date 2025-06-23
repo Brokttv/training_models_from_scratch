@@ -41,7 +41,7 @@ We'll start simple:
 
 ![LLM Training](“image”)
 
-
+---
 ### 🔸 Next: Neural Networks from Scratch
 
 We’ll train:
