@@ -43,7 +43,7 @@ We begin with fundamental supervised learning algorithms to build intuition:
 - A **one-dimensional linear regression** model  
 - A **single-neuron logistic regression** model for binary classification
 
-> 💡 **Need additional support?**  
+> 💡 **stuck or baffled?**  
 > Refer to [this excellent YouTube playlist](https://youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg&si=_qPsNeX3TuMZS9sf) by Professor Bryce for an in-depth visual guide.
 
 <br>
