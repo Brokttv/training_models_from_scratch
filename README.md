@@ -81,7 +81,7 @@ We then extend our models to multi-layer neural networks:
 
 ## 🧠 Practice Exercise: Build It Yourself
 
-Before moving on, reinforce what you've learned by implementing a model from scratch on your own.
+Now, let's make sure that things have sunk in.
 
 ### 🧪 Task
 
