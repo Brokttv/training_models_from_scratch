@@ -40,7 +40,7 @@ We'll start simple:
 <br>
 
 <div align="center">
-  <img src="Untitled design (18).png" alt="Linear and Logistic Regression" width="700">
+  <img src="Untitled design (18).png" alt="Linear and Logistic Regression" width="900">
 </div>
 
 ---
