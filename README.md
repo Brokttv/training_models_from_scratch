@@ -68,7 +68,7 @@ During this part, we’ll dive into:
 #### 🧠 Multiple Input NN
 
 <div align="center">
-  <img src="path/to/multi_input_nn.png" alt="Multiple Input Neural Network">
+  <img src="Untitled design (17).png" alt="Multiple Input Neural Network">
 </div>
 
 
