@@ -23,7 +23,8 @@ We'll start simple:
 - Build a **single-neuron logistic regression** model
 
 > ⚠️ **Stuck along the way?**  
-> This [YouTube playlist](“https://youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg&si=_qPsNeX3TuMZS9sf”) by Professor Bryce is a treasure — highly recommended!
+> This [YouTube playlist](https://youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg&si=_qPsNeX3TuMZS9sf) by Professor Bryce is a treasure — highly recommended!
+
 
 ![LLM Training](“image”)
 
