@@ -29,6 +29,17 @@ We'll start simple:
 ![LLM Training](“image”)
 
 ---
+## 🚀 Let’s Get Started
+
+Everything is built with:
+- 🐍 **Python**
+- 🧮 **NumPy**
+- ❌ No high-level ML libraries
+
+Ready to get your hands dirty with raw math and code?
+
+
+---
 
 ### 🔸 Next: Neural Networks from Scratch
 
@@ -43,13 +54,4 @@ During this part, we’ll dive into:
 
 ---
 
-## 🚀 Let’s Get Started
 
-Everything is built with:
-- 🐍 **Python**
-- 🧮 **NumPy**
-- ❌ No high-level ML libraries
-
-Ready to get your hands dirty with raw math and code?
-
-Let’s build from the ground up 💥
