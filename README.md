@@ -76,4 +76,41 @@ We then extend our models to multi-layer neural networks:
   <img src="Untitled design (17).png" alt="Multiple Input Neural Network">
 </div>
 
+---
+
+
+## 🧠 Practice Exercise: Build It Yourself
+
+Before moving on, reinforce what you've learned by implementing a model from scratch on your own.
+
+### 🧪 Task
+
+Recreate the **logistic regression** model, but this time apply it to a **new dataset**:
+
+> **🎯 Goal:** Predict college admission based on a student's SAT score.
+
+---
+
+### 📂 Dataset
+
+We'll use a small synthetic dataset for binary classification:
+
+| SAT Score | Admitted |
+|-----------|----------|
+| 900       | 0        |
+| 1100      | 0        |
+| 1300      | 1        |
+| 1500      | 1        |
+| 1700      | 1        |
+
+You can create it in NumPy as follows:
+
+```python
+import numpy as np
+
+# Input features: SAT scores (reshaped to column vector)
+X = np.array([900, 1100, 1300, 1500, 1700]).reshape(-1, 1)
+
+# Target labels: 0 = Not admitted, 1 = Admitted
+y = np.array([0, 0, 1, 1, 1]).reshape(-1, 1)
 
