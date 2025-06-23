@@ -8,11 +8,10 @@ The goal is to offer both a practical and conceptual understanding of how LLMs w
 
 ### ✅ Why Take This Approach?
 
-- 🧠 Develop a **deep, intuitive grasp** of the underlying mechanisms of neural networks and optimization.
-- ⚙️ Understand the **mathematical foundations** that power modern machine learning frameworks such as PyTorch and TensorFlow.
-- 🔁 Mastering NumPy lays a strong groundwork for transitioning to higher-level tools — the syntax and logic are remarkably similar.
-- 🛠️ Gain the ability to **debug models intelligently**, having built every layer from scratch and observed their behavior at a granular level.
-
+ 🧠 Build an **intuitive understanding** of what’s going on under the hood.  
+- ⚙️ The low-level logic is beautiful, once you get this, everything else (PyTorch, TensorFlow, Transformers) becomes **butter-smooth**.
+- 🔁 Learning NumPy first makes transitioning to PyTorch seamless; they share similar operations and logic.
+- 🛠️ You’ll become a **debugging master**; because you'll actually understand what each layer and step is doing.
 ---
 
 ## 🚀 Project Framework
