@@ -1,20 +1,19 @@
-# training_models_from_scratch
 
-# Training LLMs from Scratch — Math + NumPy Only
+## Training LLMs from Scratch — Math + NumPy Only
 
-Today, I'll be training LLMs from absolute scratch using both **math** and **code**, with **no deep learning libraries** — just **NumPy**.  
+Today, I'll be training LLMs from **absolute scratch** using both **math** and **code**, with **no deep learning libraries** — just **NumPy**.  
 And **you** should learn to do that too. Here's why:
 
-## Why Do This?
+---
+
+### ✅ Why Do This?
 
 - 🧠 Build an **intuitive understanding** of what’s going on under the hood.  
 - ⚙️ The low-level logic is beautiful — once you get this, everything else (PyTorch, TensorFlow, Transformers) becomes **butter-smooth**.
 - 🔁 Learning NumPy first makes transitioning to PyTorch seamless — they share similar operations and logic.
 - 🛠️ You’ll become a **debugging master** — because you'll actually understand what each layer and step is doing.
 
-
-
-
+---
 
 ## 🚀 Let’s Get Started
 
@@ -32,27 +31,42 @@ Ready to get your hands dirty with raw math and code?
 ### 🔹 Warm-up: Linear & Logistic Regression
 
 We'll start simple:
-- Train a **one-input linear regression** model
+- Train a **one-input linear regression** model  
 - Build a **single-neuron logistic regression** model
 
 > ⚠️ **Stuck along the way?**  
 > This [YouTube playlist](https://youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg&si=_qPsNeX3TuMZS9sf) by Professor Bryce is a treasure — highly recommended!
 
+<br>
 
-![LLM Training](“image”)
+<div align="center">
+  <img src="path/to/linear_logistic_image.png" alt="Linear and Logistic Regression">
+</div>
 
 ---
+
 ### 🔸 Next: Neural Networks from Scratch
 
 We’ll train:
 - A **single-input, 2-layer fully connected neural network**  
-- A **multi-input version** using **ReLU activation**  
+- A **multi-input version**  
 - All for **regression tasks**
 
 During this part, we’ll dive into:
 - The importance of **non-linearities**
 - How simple mathematical tools build up to modern deep learning
 
----
+#### 🧠 Single Input NN
+
+<div align="center">
+  <img src="path/to/single_input_nn.png" alt="Single Input Neural Network">
+</div>
+
+#### 🧠 Multiple Input NN
+
+<div align="center">
+  <img src="path/to/multi_input_nn.png" alt="Multiple Input Neural Network">
+</div>
+
 
 
