@@ -59,9 +59,7 @@ During this part, we’ll dive into:
 #### 🧠 Single Input NN
 
 <div align="center">
-  <a href="images/Untitled design (15).png" target="_blank">
-    <img src="images/Untitled design (15).png" alt="Single Input Neural Network" style="max-width: 100%; height: auto;">
-  </a>
+  <img src="images/single_input_nn.png" alt="Single Input Neural Network" width="600">
 </div>
 
 
