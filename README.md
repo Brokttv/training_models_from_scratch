@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/logo.png" alt="Project Logo" width="180">
+  <img src="Screenshot_23-6-2025_191349_imgflip.com.jpeg" alt="Project Logo" width="180">
 </div>
 
 # Training Large Language Models from First Principles — Using Math and NumPy Only
