@@ -12,7 +12,7 @@ And **you** should learn to do that too. Here's why:
 - 🔁 Learning NumPy first makes transitioning to PyTorch seamless — they share similar operations and logic.
 - 🛠️ You’ll become a **debugging master** — because you'll actually understand what each layer and step is doing.
 
----
+
 
 ## 🚀 Let’s Get Started
 
