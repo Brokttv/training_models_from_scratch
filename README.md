@@ -14,6 +14,17 @@ And **you** should learn to do that too. Here's why:
 
 ---
 
+## 🚀 Let’s Get Started
+
+Everything is built with:
+- 🐍 **Python**
+- 🧮 **NumPy**
+- ❌ No high-level ML libraries
+
+Ready to get your hands dirty with raw math and code?
+
+---
+
 ## 🗂️ Agenda
 
 ### 🔹 Warm-up: Linear & Logistic Regression
@@ -28,18 +39,6 @@ We'll start simple:
 
 ![LLM Training](“image”)
 
----
-## 🚀 Let’s Get Started
-
-Everything is built with:
-- 🐍 **Python**
-- 🧮 **NumPy**
-- ❌ No high-level ML libraries
-
-Ready to get your hands dirty with raw math and code?
-
-
----
 
 ### 🔸 Next: Neural Networks from Scratch
 
