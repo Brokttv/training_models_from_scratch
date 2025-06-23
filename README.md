@@ -19,7 +19,7 @@ The goal is to offer both a practical and conceptual understanding of how LLMs w
 ### ✅ Why Take This Approach?
 
  🧠 Build an **intuitive understanding** of what’s going on under the hood.  
-- ⚙️ The low-level logic is beautiful, once you get this, everything else (PyTorch, TensorFlow, Transformers) becomes **butter-smooth**.
+- ⚙️ The low-level logic is beautiful, once you get this, everything else (optimizers, Transformers) becomes **butter-smooth**.
 - 🔁 Learning NumPy first makes transitioning to PyTorch seamless; they share similar operations and logic.
 - 🛠️ You’ll become a **debugging master**; because you'll actually understand what each layer and step is doing.
 ---
