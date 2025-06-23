@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/banner.png" alt="Project Banner" width="1000">
+  <img src="Screenshot_23-6-2025_191349_imgflip.com.jpeg" width="1000">
 </div>
 
 <br>
