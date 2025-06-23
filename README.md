@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="images/banner.png" alt="Project Banner" width="1000">
+</div>
+
+<br>
+
+
+
+
+
 
 ## Training Large Language Models from First Principles — Using Math and NumPy Only
 
