@@ -109,7 +109,9 @@ You can create it in NumPy as follows:
 import numpy as np
 
 # Input features: SAT scores (reshaped to column vector)
-X = np.array([900, 1100, 1300, 1500, 1700]).reshape(-1, 1)
+X = np.array([[900], [1100], [1300], [1500], [1700]])
+
+
 
 # Target labels: 0 = Not admitted, 1 = Admitted
 y = np.array([0, 0, 1, 1, 1]).reshape(-1, 1)
