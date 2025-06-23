@@ -63,9 +63,6 @@ We then extend our models to multi-layer neural networks:
 - A **multi-input variant**, capable of handling vectorized features
 - All focused on **regression tasks**, enabling visual interpretability of outputs
 
-This section highlights:
-- The role and necessity of **non-linear activation functions**
-- How simple mathematical constructs are composed to achieve sophisticated model behavior
 
 #### 🧠 Single-Input Neural Network
 
