@@ -16,28 +16,28 @@ The goal is to offer both a practical and conceptual understanding of how LLMs w
 
 ---
 
-### ✅ Why Take This Approach?
+###  Why Take This Approach?
 
- 🧠 Build an **intuitive understanding** of what’s going on under the hood.  
-- ⚙️ The low-level logic is beautiful, once you get this, everything else (optimizers, Transformers) becomes **butter-smooth**.
-- 🔁 Learning NumPy first makes transitioning to PyTorch seamless; they share similar operations and logic.
-- 🛠️ You’ll become a **debugging master**; because you'll actually understand what each layer and step is doing.
+- Build an **intuitive understanding** of what’s going on under the hood.  
+- The low-level logic is beautiful, once you get this, everything else (optimizers, Transformers) becomes **butter-smooth**.
+- Learning NumPy first makes transitioning to PyTorch seamless; they share similar operations and logic.
+- You’ll become a **debugging master**; because you'll actually understand what each layer and step is doing.
 ---
 
-## 🚀 Project Framework
+##  Project Framework
 
 All components are implemented using:
-- 🐍 **Python**
-- 🧮 **NumPy**
+- **Python**
+- **NumPy**
 - ❌ No high-level machine learning libraries
 
 This is a hands-on, code-first exploration designed to expose the mathematical anatomy of LLMs through implementation.
 
 ---
 
-## 🗂️ Learning Roadmap
+##  Learning Roadmap
 
-### 🔹 Part 1: Foundations — Linear and Logistic Regression
+###  Part 1: Foundations — Linear and Logistic Regression
 
 We begin with fundamental supervised learning algorithms to build intuition:
 - A **one-dimensional linear regression** model  
@@ -56,7 +56,7 @@ We begin with fundamental supervised learning algorithms to build intuition:
 
 ---
 
-### 🔸 Part 2: Neural Networks from Scratch
+###  Part 2: Neural Networks from Scratch
 
 We then extend our models to multi-layer neural networks:
 - A **single-input, two-layer fully connected neural network**
@@ -64,13 +64,13 @@ We then extend our models to multi-layer neural networks:
 - All focused on **regression tasks**, enabling visual interpretability of outputs
 
 
-#### 🧠 Single-Input Neural Network
+#### Single-Input Neural Network
 
 <div align="center">
   <img src="Untitled design (16).png" alt="Single Input Neural Network" width="700">
 </div>
 
-#### 🧠 Multi-Input Neural Network
+#### Multi-Input Neural Network
 
 <div align="center">
   <img src="Untitled design (17).png" alt="Multiple Input Neural Network">
@@ -79,15 +79,15 @@ We then extend our models to multi-layer neural networks:
 ---
 
 
-## 🧠 Practice Exercise: Build It Yourself
+## Practice Exercise: Build It Yourself
 
 Now, let's make sure that things have sunk in. Before tackling this exercise, make sure to review the code for the other cases we covered.
 
-### 🧪 Task
+### Task
 
 Recreate the **logistic regression** model, but this time apply it to a **new dataset**:
 
-> **🎯 Goal:** Predict college admission based on a student's SAT score.
+> ** Goal:** Predict college admission based on a student's SAT score.
 
 ---
 
