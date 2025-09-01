@@ -73,7 +73,7 @@ We then extend our models to multi-layer neural networks:
 #### Multi-Input Neural Network
 
 <div align="center">
-  <img src="Untitled design (21).png" alt="Multiple Input Neural Network">
+  <img src="Untitled design (21).png" alt="Multiple Input Neural Network" width="5000">
 </div>
 
 ---
