@@ -72,6 +72,8 @@ We then extend our models to multi-layer neural networks:
 
 #### Multi-Input Neural Network
 
+
+
 <p align="center">
   <a href="paper.pdf">
     <img src="preview.jpeg" alt="PDF Preview">
