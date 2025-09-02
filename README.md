@@ -66,7 +66,7 @@ We then extend our models to multi-layer neural networks:
 
 <br>
 
-***Single-Input Neural Network*** \(click image for full PDF access\)
+***Single-Input Neural Network:*** \(click image for full PDF access\)
 
 <br>
 
@@ -79,7 +79,7 @@ We then extend our models to multi-layer neural networks:
 
 ---
 
-***Multi-Input Neural Network*** \(click image for full PDF access\)
+***Multi-Input Neural Network:*** \(click image for full PDF access\)
 
 <br><br>
 
