@@ -49,10 +49,12 @@ We begin with fundamental supervised learning algorithms to build intuition:
 <br>
 
 **Mathematical Implementation Overview:**
+<p align="center">
+  <a href="brouillion.pdf">
+    <img src="prev.jpeg" alt="PDF Preview">
+  </a>
+</p>
 
-<div align="center">
-  <img src="Untitled design (18).png" alt="Linear and Logistic Regression" width="900">
-</div>
 
 ---
 
