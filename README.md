@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="one-piece.avif" alt="Project Logo" width="500">
+  <img src="one-piece.avif" alt="Project Logo" width="900">
 </div>
 
-# Training Large Language Models from First Principles — Using Math and NumPy Only
 
 
-
-
+<br><br>
 
 
 ## Training Large Language Models from First Principles — Using Math and NumPy Only
