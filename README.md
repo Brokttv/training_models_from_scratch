@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="one-piece.avif" alt="Project Logo" width="500">
+  <img src="images/one-piece.avif" alt="Project Logo" width="500">
 </div>
 
 <br><br>
@@ -49,8 +49,8 @@ We begin with fundamental supervised learning algorithms to build intuition:
 <br><br>
 
 <p align="center">
-  <a href="brouillion.pdf">
-    <img src="prev.jpeg" alt="PDF Preview">
+  <a href="main/brouillion.pdf">
+    <img src="images/prev.jpeg" alt="PDF Preview">
   </a>
 </p>
 
