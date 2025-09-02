@@ -72,6 +72,8 @@ We then extend our models to multi-layer neural networks:
   <img src="Untitled design (16).png" alt="Single Input Neural Network" width="700">
 </div>
 
+---
+
 #### Multi-Input Neural Network
 
 
