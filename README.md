@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/one-piece.avif" alt="Project Logo" width="500">
+  <img src="images/one-piece.avif" alt="Project Logo" width="900">
 </div>
 
 <br><br>
