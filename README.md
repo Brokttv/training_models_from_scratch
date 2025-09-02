@@ -72,8 +72,8 @@ We then extend our models to multi-layer neural networks:
 
 
 <p align="center">
-  <a href="Meium.pdf">
-    <img src="prev_2.jpeg" alt="PDF Preview">
+  <a href="main/Meium.pdf">
+    <img src="images/prev_2.jpeg" alt="PDF Preview">
   </a>
 </p>
 
@@ -84,8 +84,8 @@ We then extend our models to multi-layer neural networks:
 <br><br>
 
 <p align="center">
-  <a href="paper.pdf">
-    <img src="preview.jpeg" alt="PDF Preview">
+  <a href="main/paper.pdf">
+    <img src="images/preview.jpeg" alt="PDF Preview">
   </a>
 </p>
 
