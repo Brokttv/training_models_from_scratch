@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="one-piece.avif" alt="Project Logo" width="900">
+  <img src="one-piece.avif" alt="Project Logo" width="500">
 </div>
-
-
 
 <br><br>
 
