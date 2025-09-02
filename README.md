@@ -68,9 +68,11 @@ We then extend our models to multi-layer neural networks:
 
 #### Single-Input Neural Network
 
-<div align="center">
-  <img src="Untitled design (16).png" alt="Single Input Neural Network" width="700">
-</div>
+<p align="center">
+  <a href="Meium.pdf">
+    <img src="prev_2.jpeg" alt="PDF Preview">
+  </a>
+</p>
 
 ---
 
