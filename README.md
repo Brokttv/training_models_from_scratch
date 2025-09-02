@@ -48,7 +48,9 @@ We begin with fundamental supervised learning algorithms to build intuition:
 
 <br>
 
-**Mathematical Implementation Overview:**
+***Mathematical Implementation Overview:***
+ (click image for full PDF access)
+
 <p align="center">
   <a href="brouillion.pdf">
     <img src="prev.jpeg" alt="PDF Preview">
@@ -66,7 +68,10 @@ We then extend our models to multi-layer neural networks:
 - All focused on **regression tasks**, enabling visual interpretability of outputs
 
 
-#### Single-Input Neural Network
+ ***Single-Input Neural Network*** \(click image for full PDF access\)
+
+
+
 
 <p align="center">
   <a href="Meium.pdf">
@@ -76,7 +81,7 @@ We then extend our models to multi-layer neural networks:
 
 ---
 
-#### Multi-Input Neural Network
+***Multi-Input Neural Network*** \(click image for full PDF access\)
 
 
 
